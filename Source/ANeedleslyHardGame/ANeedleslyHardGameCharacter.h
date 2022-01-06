@@ -42,4 +42,10 @@ public:
 	FORCEINLINE class UCameraComponent* GetSideViewCameraComponent() const { return SideViewCameraComponent; }
 	/** Returns CameraBoom subobject **/
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
+
+	bool bCanUseLife = false;
+	int Lives = 3;
+
+	UFUNCTION(BlueprintCallable)
+		void Death();
 };

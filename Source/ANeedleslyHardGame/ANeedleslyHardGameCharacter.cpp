@@ -6,6 +6,7 @@
 #include "Components/InputComponent.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
+#include "Kismet/GameplayStatics.h"
 
 AANeedleslyHardGameCharacter::AANeedleslyHardGameCharacter()
 {
@@ -45,6 +46,7 @@ AANeedleslyHardGameCharacter::AANeedleslyHardGameCharacter()
 	// are set in the derived blueprint asset named MyCharacter (to avoid direct content references in C++)
 }
 
+
 //////////////////////////////////////////////////////////////////////////
 // Input
 
@@ -76,3 +78,10 @@ void AANeedleslyHardGameCharacter::TouchStopped(const ETouchIndex::Type FingerIn
 	StopJumping();
 }
 
+
+void AANeedleslyHardGameCharacter::Death()
+{
+	FName levelName(UGameplayStatics::GetCurrentLevelName(GetWorld()));
+
+	UGameplayStatics::OpenLevel(GetWorld(), levelName);
+}
