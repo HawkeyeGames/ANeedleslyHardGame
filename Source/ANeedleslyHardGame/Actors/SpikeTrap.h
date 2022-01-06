@@ -34,20 +34,12 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		UBoxComponent* Trigger;
 
-	UFUNCTION(BlueprintCallable)
+	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
 	void OnTriggered();
 
-	UFUNCTION()
-	void TimerEnd();
-
-	UPROPERTY(BlueprintReadOnly)
+	UPROPERTY(BlueprintReadWrite)
 	bool bCanTrigger = true;
 	
 	UPROPERTY(BlueprintReadWrite)
 	bool bOverlappingTrap = false;
-
-	FTimerHandle Timer;
-
-	FVector StartLoc;
-
 };

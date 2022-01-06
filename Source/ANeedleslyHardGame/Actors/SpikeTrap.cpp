@@ -24,8 +24,9 @@ ASpikeTrap::ASpikeTrap()
 void ASpikeTrap::BeginPlay()
 {
 	Super::BeginPlay();
-	
-	StartLoc = Mesh->GetComponentLocation();
+
+	FLatentActionInfo ActionInfo;
+	UKismetSystemLibrary::MoveComponentTo(Mesh, FVector(0.f, 0.f, 0.f), FRotator(0.f, 0.f, 0.f), true, true, 0.2f, true, EMoveComponentAction::Move, ActionInfo);
 }
 
 // Called every frame
@@ -33,26 +34,6 @@ void ASpikeTrap::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-}
-
-void ASpikeTrap::OnTriggered()
-{
-	FLatentActionInfo LatentInfo;
-	bCanTrigger = false;
-	
-	UKismetSystemLibrary::MoveComponentTo(Mesh, FVector(0.f,0.f,0.f), Mesh->GetComponentRotation(), true, true, 0.2f, false, EMoveComponentAction::Move, LatentInfo);
-
-	GetWorld()->GetTimerManager().SetTimer(Timer, this, &ASpikeTrap::TimerEnd, 3.f, false);
-
-	UE_LOG(LogTemp, Warning, TEXT("Triggered spike trap."));
-}
-
-void ASpikeTrap::TimerEnd()
-{
-	FLatentActionInfo LatentInfo;
-	bCanTrigger = true;
-
-	UKismetSystemLibrary::MoveComponentTo(Mesh, FVector(0.f, 0.f, 0.f), Mesh->GetComponentRotation(), true, true, 0.2f, false, EMoveComponentAction::Move, LatentInfo);
 }
 
 
