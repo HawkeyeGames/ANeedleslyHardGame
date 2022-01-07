@@ -45,7 +45,4 @@ public:
 
 	bool bCanUseLife = false;
 	int Lives = 3;
-
-	UFUNCTION(BlueprintCallable)
-		void Death();
 };

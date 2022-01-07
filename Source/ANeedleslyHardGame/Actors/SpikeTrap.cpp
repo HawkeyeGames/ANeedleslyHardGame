@@ -3,6 +3,7 @@
 
 #include "ANeedleslyHardGame/Actors/SpikeTrap.h"
 #include "Kismet/KismetSystemLibrary.h"
+#include "Kismet/GameplayStatics.h"
 
 // Sets default values
 ASpikeTrap::ASpikeTrap()
@@ -24,9 +25,6 @@ ASpikeTrap::ASpikeTrap()
 void ASpikeTrap::BeginPlay()
 {
 	Super::BeginPlay();
-
-	FLatentActionInfo ActionInfo;
-	UKismetSystemLibrary::MoveComponentTo(Mesh, FVector(0.f, 0.f, 0.f), FRotator(0.f, 0.f, 0.f), true, true, 0.2f, true, EMoveComponentAction::Move, ActionInfo);
 }
 
 // Called every frame
@@ -36,5 +34,14 @@ void ASpikeTrap::Tick(float DeltaTime)
 
 }
 
+void ASpikeTrap::OnTriggered()
+{
+	FTimerHandle Timer;
 
+	GetWorldTimerManager().SetTimer(Timer, this, &ASpikeTrap::TimerDone, 1.f, true, 2.f);
+}
 
+void ASpikeTrap::TimerDone()
+{
+	UGameplayStatics::OpenLevel(GetWorld(), FName(UGameplayStatics::GetCurrentLevelName(GetWorld())));
+}

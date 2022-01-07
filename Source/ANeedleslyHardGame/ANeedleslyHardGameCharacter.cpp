@@ -77,11 +77,3 @@ void AANeedleslyHardGameCharacter::TouchStopped(const ETouchIndex::Type FingerIn
 {
 	StopJumping();
 }
-
-
-void AANeedleslyHardGameCharacter::Death()
-{
-	FName levelName(UGameplayStatics::GetCurrentLevelName(GetWorld()));
-
-	UGameplayStatics::OpenLevel(GetWorld(), levelName);
-}

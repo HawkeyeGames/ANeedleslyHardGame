@@ -7,6 +7,8 @@
 #include "Components/StaticMeshComponent.h"
 #include "Components/SceneComponent.h"
 #include "Components/BoxComponent.h"
+#include "ANeedleslyHardGame/ANeedleslyHardGameCharacter.h"
+#include "GameFramework/Pawn.h"
 #include "SpikeTrap.generated.h"
 
 UCLASS()
@@ -34,12 +36,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		UBoxComponent* Trigger;
 
-	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
-	void OnTriggered();
+	UFUNCTION(BlueprintCallable)
+		void OnTriggered();
 
-	UPROPERTY(BlueprintReadWrite)
-	bool bCanTrigger = true;
-	
-	UPROPERTY(BlueprintReadWrite)
-	bool bOverlappingTrap = false;
+	UFUNCTION()
+		void TimerDone();
 };
