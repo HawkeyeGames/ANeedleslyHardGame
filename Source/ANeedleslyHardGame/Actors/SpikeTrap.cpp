@@ -4,6 +4,8 @@
 #include "ANeedleslyHardGame/Actors/SpikeTrap.h"
 #include "Kismet/KismetSystemLibrary.h"
 #include "Kismet/GameplayStatics.h"
+#include "ANeedleslyHardGame/ANeedleslyHardGameCharacter.h"
+#include "Components/SkeletalMeshComponent.h"
 
 // Sets default values
 ASpikeTrap::ASpikeTrap()
@@ -38,10 +40,26 @@ void ASpikeTrap::OnTriggered()
 {
 	FTimerHandle Timer;
 
-	GetWorldTimerManager().SetTimer(Timer, this, &ASpikeTrap::TimerDone, 1.f, true, 2.f);
+	GetWorldTimerManager().SetTimer(Timer, this, &ASpikeTrap::DeathTimerDone, 1.f, true, 2.f);
+
+	UGameplayStatics::GetPlayerController(GetWorld(), 0)->SetIgnoreMoveInput(true);
+
+	Player = Cast<AANeedleslyHardGameCharacter>(UGameplayStatics::GetPlayerCharacter(GetWorld(), 0));
+
+	Player->GetMesh()->SetVisibility(false);
+	Player->DeathParticle->SetActive(true);
+
+	GetWorldTimerManager().SetTimer(ParticleTimer, this, &ASpikeTrap::ParticleTimerDone, 1.f, true, 0.2f);
+
+	Player->bCanJump = false;
 }
 
-void ASpikeTrap::TimerDone()
+void ASpikeTrap::DeathTimerDone()
 {
 	UGameplayStatics::OpenLevel(GetWorld(), FName(UGameplayStatics::GetCurrentLevelName(GetWorld())));
+}
+
+void ASpikeTrap::ParticleTimerDone()
+{
+	Player->DeathParticle->SetActive(false);
 }

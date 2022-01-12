@@ -18,19 +18,8 @@ AANeedleslyHardGameCharacter::AANeedleslyHardGameCharacter()
 	bUseControllerRotationYaw = false;
 	bUseControllerRotationRoll = false;
 
-	// Create a camera boom attached to the root (capsule)
-	CameraBoom = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraBoom"));
-	CameraBoom->SetupAttachment(RootComponent);
-	CameraBoom->SetUsingAbsoluteRotation(true); // Rotation of the character should not affect rotation of boom
-	CameraBoom->bDoCollisionTest = false;
-	CameraBoom->TargetArmLength = 500.f;
-	CameraBoom->SocketOffset = FVector(0.f,0.f,75.f);
-	CameraBoom->SetRelativeRotation(FRotator(0.f,180.f,0.f));
-
-	// Create a camera and attach to boom
-	SideViewCameraComponent = CreateDefaultSubobject<UCameraComponent>(TEXT("SideViewCamera"));
-	SideViewCameraComponent->SetupAttachment(CameraBoom, USpringArmComponent::SocketName);
-	SideViewCameraComponent->bUsePawnControlRotation = false; // We don't want the controller rotating the camera
+	DeathParticle = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("Death particle"));
+	DeathParticle->SetupAttachment(RootComponent);
 
 	// Configure character movement
 	GetCharacterMovement()->bOrientRotationToMovement = true; // Face in the direction we are moving..
@@ -53,7 +42,7 @@ AANeedleslyHardGameCharacter::AANeedleslyHardGameCharacter()
 void AANeedleslyHardGameCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent)
 {
 	// set up gameplay key bindings
-	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
+	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &AANeedleslyHardGameCharacter::TestForJump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 	PlayerInputComponent->BindAxis("MoveRight", this, &AANeedleslyHardGameCharacter::MoveRight);
 
@@ -70,10 +59,21 @@ void AANeedleslyHardGameCharacter::MoveRight(float Value)
 void AANeedleslyHardGameCharacter::TouchStarted(const ETouchIndex::Type FingerIndex, const FVector Location)
 {
 	// jump on any touch
-	Jump();
+	if (bCanJump)
+	{
+		Jump();
+	}
 }
 
 void AANeedleslyHardGameCharacter::TouchStopped(const ETouchIndex::Type FingerIndex, const FVector Location)
 {
 	StopJumping();
+}
+
+void AANeedleslyHardGameCharacter::TestForJump()
+{
+	if (bCanJump)
+	{
+		Jump();
+	}
 }

@@ -4,20 +4,14 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "ANeedleslyHardGame/Actors/Platformer_CameraActor.h"
+#include "Particles/ParticleSystemComponent.h"
 #include "ANeedleslyHardGameCharacter.generated.h"
 
 UCLASS(config=Game)
 class AANeedleslyHardGameCharacter : public ACharacter
 {
 	GENERATED_BODY()
-
-	/** Side view camera */
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	class UCameraComponent* SideViewCameraComponent;
-
-	/** Camera boom positioning the camera beside the character */
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	class USpringArmComponent* CameraBoom;
 
 protected:
 
@@ -38,10 +32,16 @@ protected:
 public:
 	AANeedleslyHardGameCharacter();
 
-	/** Returns SideViewCameraComponent subobject **/
-	FORCEINLINE class UCameraComponent* GetSideViewCameraComponent() const { return SideViewCameraComponent; }
-	/** Returns CameraBoom subobject **/
-	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		APlatformer_CameraActor* NewCamera;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		UParticleSystemComponent* DeathParticle;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		bool bCanJump = true;
+
+	void TestForJump();
 
 	bool bCanUseLife = false;
 	int Lives = 3;

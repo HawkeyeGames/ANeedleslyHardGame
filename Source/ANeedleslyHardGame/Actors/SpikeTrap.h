@@ -36,9 +36,15 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		UBoxComponent* Trigger;
 
+	FTimerHandle ParticleTimer;
+
+	AANeedleslyHardGameCharacter* Player;
+
 	UFUNCTION(BlueprintCallable)
 		void OnTriggered();
 
 	UFUNCTION()
-		void TimerDone();
+		void DeathTimerDone();
+	UFUNCTION()
+		void ParticleTimerDone();
 };
