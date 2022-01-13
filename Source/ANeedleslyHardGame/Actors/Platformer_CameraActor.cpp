@@ -27,20 +27,28 @@ void APlatformer_CameraActor::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+
 	if (SectionEnd == nullptr) return;
 	
 	FVector NewLoc;
 
-	APawn* Player = UGameplayStatics::GetPlayerCharacter(GetWorld(), 0);
-	
-	if (Player == nullptr) return;
-	
+	APawn* PlayerCharacter = UGameplayStatics::GetPlayerCharacter(GetWorld(), 0);
+
+	AANeedleslyHardGameCharacter* Player = Cast<AANeedleslyHardGameCharacter>(PlayerCharacter);
+
 	AvgLoc = (SectionEnd->GetActorLocation() + Player->GetActorLocation()) / 2;
+
+	if (Player == nullptr) return;
+
+	if (Player->bDead) return;
 	
+	if (bTransitioning) return;
+
 	NewLoc.X = AvgLoc.X + Offset;
 	NewLoc.Y = AvgLoc.Y;
 	NewLoc.Z = AvgLoc.Z;
 
 	SetActorLocation(NewLoc);
+	
 }
 

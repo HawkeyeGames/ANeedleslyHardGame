@@ -32,6 +32,8 @@ protected:
 public:
 	AANeedleslyHardGameCharacter();
 
+	virtual void Tick(float DeltaTime) override;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		APlatformer_CameraActor* NewCamera;
 
@@ -41,8 +43,24 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		bool bCanJump = true;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		bool bDead = false;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		bool bAtEnd = false;
+
 	void TestForJump();
+	void TestForJumpNot();
+
+	UPROPERTY(BlueprintReadWrite)
+		bool IsJumping = false;
+
+	float JumpHeight = 600.f;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float MaxJumpHeight = 1100.f;
 
 	bool bCanUseLife = false;
-	int Lives = 3;
+	int32 Lives = 3;
+
+	FTimerHandle JumpDelayHandle;
+	void JumpDelay();
 };

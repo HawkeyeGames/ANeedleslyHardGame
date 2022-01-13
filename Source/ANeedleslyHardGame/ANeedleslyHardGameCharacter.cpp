@@ -7,6 +7,7 @@
 #include "GameFramework/SpringArmComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
 #include "Kismet/GameplayStatics.h"
+#include "Math/UnrealMathUtility.h"
 
 AANeedleslyHardGameCharacter::AANeedleslyHardGameCharacter()
 {
@@ -35,6 +36,32 @@ AANeedleslyHardGameCharacter::AANeedleslyHardGameCharacter()
 	// are set in the derived blueprint asset named MyCharacter (to avoid direct content references in C++)
 }
 
+void AANeedleslyHardGameCharacter::Tick(float DeltaTime)
+{
+	Super::Tick(DeltaTime);
+
+	if (IsJumping)
+	{
+		if (JumpHeight >= MaxJumpHeight)
+		{
+			return;
+		}
+		else
+		{
+			JumpHeight += 50.f;
+		}
+		
+		GetCharacterMovement()->JumpZVelocity = JumpHeight;
+
+		UE_LOG(LogTemp, Warning, TEXT("Jump height is set to %s"), *FString::SanitizeFloat(GetCharacterMovement()->JumpZVelocity));
+	}
+	else
+	{
+		JumpHeight = 600.f;
+		GetCharacterMovement()->JumpZVelocity = JumpHeight;
+	}
+}
+
 
 //////////////////////////////////////////////////////////////////////////
 // Input
@@ -43,7 +70,7 @@ void AANeedleslyHardGameCharacter::SetupPlayerInputComponent(class UInputCompone
 {
 	// set up gameplay key bindings
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &AANeedleslyHardGameCharacter::TestForJump);
-	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
+	PlayerInputComponent->BindAction("Jump", IE_Released, this, &AANeedleslyHardGameCharacter::TestForJumpNot);
 	PlayerInputComponent->BindAxis("MoveRight", this, &AANeedleslyHardGameCharacter::MoveRight);
 
 	PlayerInputComponent->BindTouch(IE_Pressed, this, &AANeedleslyHardGameCharacter::TouchStarted);
@@ -61,19 +88,58 @@ void AANeedleslyHardGameCharacter::TouchStarted(const ETouchIndex::Type FingerIn
 	// jump on any touch
 	if (bCanJump)
 	{
+		IsJumping = true;
 		Jump();
 	}
 }
 
 void AANeedleslyHardGameCharacter::TouchStopped(const ETouchIndex::Type FingerIndex, const FVector Location)
 {
+	IsJumping = false;
 	StopJumping();
 }
 
 void AANeedleslyHardGameCharacter::TestForJump()
 {
+	if (bDead) return;
+	
+	int32 JumpChance;
+
+	if (bAtEnd)
+	{
+		JumpChance = FMath::RandRange(1, 5);
+	}
+	else
+	{
+		JumpChance = FMath::RandRange(1, 20);
+	}
+
+	if (JumpChance == 1)
+	{
+		bCanJump = false;
+	}
+	else
+	{
+		bCanJump = true;
+	}
+
 	if (bCanJump)
 	{
-		Jump();
+		IsJumping = true;
+
+		float JumpDelay = FMath::FRandRange(0.005f, 0.2f);
+
+		GetWorldTimerManager().SetTimer(JumpDelayHandle, this, &AANeedleslyHardGameCharacter::JumpDelay, JumpDelay, false, JumpDelay);
 	}
+}
+
+void AANeedleslyHardGameCharacter::TestForJumpNot()
+{
+	IsJumping = false;
+	StopJumping();
+}
+
+void AANeedleslyHardGameCharacter::JumpDelay()
+{
+	Jump();
 }

@@ -51,7 +51,7 @@ void ASpikeTrap::OnTriggered()
 
 	GetWorldTimerManager().SetTimer(ParticleTimer, this, &ASpikeTrap::ParticleTimerDone, 1.f, true, 0.2f);
 
-	Player->bCanJump = false;
+	Player->bDead = true;
 }
 
 void ASpikeTrap::DeathTimerDone()

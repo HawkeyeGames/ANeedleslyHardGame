@@ -27,11 +27,14 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		UCameraComponent* Camera;
 
-	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		AActor* SectionEnd;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		float Offset = 2000;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		bool bTransitioning = false;
 
+	UPROPERTY(BlueprintReadOnly)
 	FVector AvgLoc;
 };
