@@ -36,9 +36,9 @@ void APlatformer_CameraActor::Tick(float DeltaTime)
 
 	AANeedleslyHardGameCharacter* Player = Cast<AANeedleslyHardGameCharacter>(PlayerCharacter);
 
-	AvgLoc = (SectionEnd->GetActorLocation() + Player->GetActorLocation()) / 2;
 
 	if (Player == nullptr) return;
+	AvgLoc = (SectionEnd->GetActorLocation() + Player->GetActorLocation()) / 2;
 
 	if (Player->bDead) return;
 	

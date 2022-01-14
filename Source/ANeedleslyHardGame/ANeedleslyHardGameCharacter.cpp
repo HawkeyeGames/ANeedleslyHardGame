@@ -111,7 +111,7 @@ void AANeedleslyHardGameCharacter::TestForJump()
 	}
 	else
 	{
-		JumpChance = FMath::RandRange(1, 20);
+		JumpChance = FMath::RandRange(1, 10);
 	}
 
 	if (JumpChance == 1)

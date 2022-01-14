@@ -31,4 +31,6 @@ public:
 		bool bCanMove = true;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		float MoveAmount = 100.f;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float MoveDelay = 0.f;
 };
