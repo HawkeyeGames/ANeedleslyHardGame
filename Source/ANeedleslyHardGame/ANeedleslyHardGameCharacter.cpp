@@ -40,6 +40,17 @@ void AANeedleslyHardGameCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	if (bIsPlaying)
+	{
+		GetController()->SetIgnoreMoveInput(false);
+		bCanJump = true;
+	}
+	else
+	{
+		GetController()->SetIgnoreMoveInput(true);
+		bCanJump = false;
+	}
+
 	if (IsJumping)
 	{
 		if (JumpHeight >= MaxJumpHeight)

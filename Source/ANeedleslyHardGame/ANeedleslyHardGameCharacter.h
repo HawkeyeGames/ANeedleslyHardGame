@@ -47,6 +47,8 @@ public:
 		bool bDead = false;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		bool bAtEnd = false;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		bool bIsPlaying = false;
 
 	void TestForJump();
 	void TestForJumpNot();
