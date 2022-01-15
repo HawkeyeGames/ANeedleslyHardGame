@@ -74,291 +74,291 @@
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uexp" 73
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 74
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonJump_End.uexp" 75
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 76
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonJump_Start.uexp" 77
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 78
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonJump_Loop.uexp" 79
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 80
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPerson_Jump.uexp" 81
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 82
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonWalk.uexp" 83
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonRun.uasset" 84
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonRun.uexp" 85
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 86
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonIdle.uexp" 87
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 88
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uexp" 89
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 76
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonWalk.uexp" 77
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonRun.uasset" 78
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonRun.uexp" 79
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 80
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonIdle.uexp" 81
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 82
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uexp" 83
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 84
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPerson_Jump.uexp" 85
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 86
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonJump_Start.uexp" 87
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 88
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPersonJump_Loop.uexp" 89
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 90
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 91
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 92
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uexp" 93
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 94
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 95
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 96
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_N.uexp" 97
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_N.ubulk" 98
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 99
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uexp" 100
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.ubulk" 101
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 102
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 103
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 104
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 105
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 106
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 107
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 108
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 109
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 110
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 111
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 112
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 113
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 114
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 115
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 116
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 117
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_N.uasset" 118
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_N.uexp" 119
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_N.ubulk" 120
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 121
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 122
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 123
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 124
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 125
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 126
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 127
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 128
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 129
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 130
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 131
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_Mask.uexp" 132
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_Mask.ubulk" 133
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 134
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/M_Male_Body.uexp" 135
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 136
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 137
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 94
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 95
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 96
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 97
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 98
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 99
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 100
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 101
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 102
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uexp" 103
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.ubulk" 104
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 105
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 106
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 107
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 108
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 109
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 110
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 111
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 112
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 113
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 114
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 115
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 116
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_N.uasset" 117
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_N.uexp" 118
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_N.ubulk" 119
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 120
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 121
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 122
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 123
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 124
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 125
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 126
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_Mask.uexp" 127
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Male_Mask.ubulk" 128
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 129
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/M_Male_Body.uexp" 130
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 131
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_N.uexp" 132
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_UE4Logo_N.ubulk" 133
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 134
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 135
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 136
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 137
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 138
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin.uexp" 139
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 140
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uexp" 141
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 142
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_Mask.uexp" 143
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_Mask.ubulk" 144
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_N.uasset" 145
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_N.uexp" 146
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_N.ubulk" 147
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 148
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MI_Female_Body.uexp" 149
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 140
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_Mask.uexp" 141
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_Mask.ubulk" 142
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_N.uasset" 143
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_N.uexp" 144
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Textures/T_Female_N.ubulk" 145
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 146
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Materials/MI_Female_Body.uexp" 147
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 148
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uexp" 149
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 150
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uexp" 151
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/1M_Cube.uasset" 152
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/1M_Cube.uexp" 153
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 154
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 155
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 156
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 157
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 158
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 159
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 160
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 161
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 154
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 155
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 156
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 157
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 158
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 159
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 160
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 161
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 162
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 163
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/1M_Cube_DM.uasset" 164
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/1M_Cube_DM.uexp" 165
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/PostProcessing/Textures/Shadows_PP.uasset" 166
 "C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/PostProcessing/Textures/Shadows_PP.uexp" 167
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Basic_Wall.uasset" 168
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Basic_Wall.uexp" 169
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Pillar_50x500.uasset" 170
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Pillar_50x500.uexp" 171
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x300.uasset" 172
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x300.uexp" 173
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x400.uasset" 174
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x400.uexp" 175
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_500x500.uasset" 176
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_500x500.uexp" 177
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 178
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 179
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 180
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 181
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse01.uasset" 182
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse01.uexp" 183
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse02.uasset" 184
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse02.uexp" 185
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion01.uasset" 186
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion01.uexp" 187
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion02.uasset" 188
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion02.uexp" 189
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire01.uasset" 190
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire01.uexp" 191
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire_Sparks01.uasset" 192
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire_Sparks01.uexp" 193
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light01.uasset" 194
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light01.uexp" 195
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light01_Cue.uasset" 196
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light01_Cue.uexp" 197
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light02.uasset" 198
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light02.uexp" 199
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light02_Cue.uasset" 200
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light02_Cue.uexp" 201
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Smoke01.uasset" 202
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Smoke01.uexp" 203
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Birds01.uasset" 204
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Birds01.uexp" 205
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Music01.uasset" 206
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Music01.uexp" 207
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Wind05.uasset" 208
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Wind05.uexp" 209
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Wind06.uasset" 210
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Wind06.uexp" 211
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Steam01.uasset" 212
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Steam01.uexp" 213
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 214
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 215
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 216
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 217
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 218
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 219
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 220
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 221
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 222
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 223
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 224
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 225
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 226
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 227
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 228
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 229
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 230
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 231
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 232
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Burst_M.uasset" 233
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Burst_M.uexp" 234
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Burst_M.ubulk" 235
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Burst.uasset" 236
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Burst.uexp" 237
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Explosion.uasset" 238
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Explosion.uexp" 239
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion_Cue.uasset" 240
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion_Cue.uexp" 241
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 242
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 243
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 244
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 245
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 246
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 247
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 248
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_N.uasset" 249
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_N.uexp" 250
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_N.ubulk" 251
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_D.uasset" 252
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_D.uexp" 253
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_D.ubulk" 254
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Bush.uasset" 255
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Bush.uexp" 256
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Bush.uasset" 257
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Bush.uexp" 258
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_N.uasset" 259
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_N.uexp" 260
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_N.ubulk" 261
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_M.uasset" 262
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_M.uexp" 263
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_M.ubulk" 264
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Chair.uasset" 265
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Chair.uexp" 266
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Couch.uasset" 267
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Couch.uexp" 268
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_N.uasset" 269
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_N.uexp" 270
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_N.ubulk" 271
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_M.uasset" 272
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_M.uexp" 273
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_M.ubulk" 274
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Door.uasset" 275
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Door.uexp" 276
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Glass.uasset" 277
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Glass.uexp" 278
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Door.uasset" 279
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Door.uexp" 280
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 281
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uexp" 282
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 283
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_MaterialSphere.uexp" 284
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 285
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" 286
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_N.uasset" 287
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_N.uexp" 288
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 289
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_M.uasset" 290
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_M.uexp" 291
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 292
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 293
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 294
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 295
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 296
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 297
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 298
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Rock.uasset" 299
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Rock.uexp" 300
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Rock.uasset" 301
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Rock.uexp" 302
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_N.uasset" 303
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_N.uexp" 304
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_N.ubulk" 305
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_M.uasset" 306
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_M.uexp" 307
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_M.ubulk" 308
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Shelf.uasset" 309
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Shelf.uexp" 310
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Shelf.uasset" 311
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Shelf.uexp" 312
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Basic_Floor.uasset" 313
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Basic_Floor.uexp" 314
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Stairs.uasset" 315
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Stairs.uexp" 316
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cone.uasset" 317
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cone.uexp" 318
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 319
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 320
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 321
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 322
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe.uasset" 323
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe.uexp" 324
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 325
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 326
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 327
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 328
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Plane.uasset" 329
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Plane.uexp" 330
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Torus.uasset" 331
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Torus.uexp" 332
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim.uasset" 333
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim.uexp" 334
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 335
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 336
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 337
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 338
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 339
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 340
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Tube.uasset" 341
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Tube.uexp" 342
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 343
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 344
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 345
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 346
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 347
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 348
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/HeartEmpty.uasset" 349
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/HeartEmpty.uexp" 350
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/HeartFull.uasset" 351
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/HeartFull.uexp" 352
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 353
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 354
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 355
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 356
-"../../../Engine/Content/BasicShapes/Cone.uasset" 357
-"../../../Engine/Content/BasicShapes/Cone.uexp" 358
-"../../../Engine/Content/BasicShapes/Cube.uasset" 359
-"../../../Engine/Content/BasicShapes/Cube.uexp" 360
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/SFX/earthquacke.uasset" 168
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/SFX/earthquacke.uexp" 169
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Basic_Wall.uasset" 170
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Basic_Wall.uexp" 171
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Pillar_50x500.uasset" 172
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Pillar_50x500.uexp" 173
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x300.uasset" 174
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x300.uexp" 175
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x400.uasset" 176
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x400.uexp" 177
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_500x500.uasset" 178
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_500x500.uexp" 179
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 180
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 181
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 182
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 183
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse01.uasset" 184
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse01.uexp" 185
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse02.uasset" 186
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse02.uexp" 187
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion01.uasset" 188
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion01.uexp" 189
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion02.uasset" 190
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion02.uexp" 191
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire01.uasset" 192
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire01.uexp" 193
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire_Sparks01.uasset" 194
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire_Sparks01.uexp" 195
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light01.uasset" 196
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light01.uexp" 197
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light01_Cue.uasset" 198
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light01_Cue.uexp" 199
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light02.uasset" 200
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light02.uexp" 201
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light02_Cue.uasset" 202
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Light02_Cue.uexp" 203
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Smoke01.uasset" 204
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Smoke01.uexp" 205
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Birds01.uasset" 206
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Birds01.uexp" 207
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Music01.uasset" 208
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Music01.uexp" 209
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Wind05.uasset" 210
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Wind05.uexp" 211
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Wind06.uasset" 212
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Wind06.uexp" 213
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Steam01.uasset" 214
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Steam01.uexp" 215
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 216
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 217
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 218
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 219
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 220
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 221
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 222
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 223
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 224
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 225
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 226
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 227
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 228
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 229
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 230
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 231
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 232
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 233
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 234
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Burst_M.uasset" 235
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Burst_M.uexp" 236
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Burst_M.ubulk" 237
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Burst.uasset" 238
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Burst.uexp" 239
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Explosion.uasset" 240
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Explosion.uexp" 241
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion_Cue.uasset" 242
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Explosion_Cue.uexp" 243
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 244
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 245
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 246
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 247
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 248
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 249
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 250
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_N.uasset" 251
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_N.uexp" 252
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_N.ubulk" 253
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_D.uasset" 254
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_D.uexp" 255
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Bush_D.ubulk" 256
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Bush.uasset" 257
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Bush.uexp" 258
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Bush.uasset" 259
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Bush.uexp" 260
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_N.uasset" 261
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_N.uexp" 262
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_N.ubulk" 263
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_M.uasset" 264
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_M.uexp" 265
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Chair_M.ubulk" 266
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Chair.uasset" 267
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Chair.uexp" 268
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Couch.uasset" 269
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Couch.uexp" 270
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Glass.uasset" 271
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Glass.uexp" 272
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_N.uasset" 273
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_N.uexp" 274
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_N.ubulk" 275
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_M.uasset" 276
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_M.uexp" 277
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Door_M.ubulk" 278
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Door.uasset" 279
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Door.uexp" 280
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Door.uasset" 281
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Door.uexp" 282
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 283
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uexp" 284
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 285
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_MaterialSphere.uexp" 286
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 287
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" 288
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 289
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 290
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 291
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_N.uasset" 292
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_N.uexp" 293
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 294
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_M.uasset" 295
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_M.uexp" 296
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 297
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 298
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 299
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 300
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Rock.uasset" 301
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Rock.uexp" 302
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Rock.uasset" 303
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Rock.uexp" 304
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_N.uasset" 305
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_N.uexp" 306
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_N.ubulk" 307
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_M.uasset" 308
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_M.uexp" 309
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Shelf_M.ubulk" 310
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Shelf.uasset" 311
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Shelf.uexp" 312
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Shelf.uasset" 313
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Shelf.uexp" 314
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Basic_Floor.uasset" 315
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Basic_Floor.uexp" 316
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Stairs.uasset" 317
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Stairs.uexp" 318
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cone.uasset" 319
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cone.uexp" 320
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 321
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 322
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 323
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 324
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe.uasset" 325
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe.uexp" 326
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 327
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 328
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 329
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 330
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Plane.uasset" 331
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Plane.uexp" 332
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Torus.uasset" 333
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Torus.uexp" 334
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim.uasset" 335
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim.uexp" 336
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 337
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 338
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 339
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 340
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 341
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 342
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Tube.uasset" 343
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Tube.uexp" 344
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 345
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 346
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 347
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 348
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 349
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 350
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/HeartEmpty.uasset" 351
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/HeartEmpty.uexp" 352
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/HeartFull.uasset" 353
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/HeartFull.uexp" 354
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 355
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 356
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 357
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 358
+"../../../Engine/Content/BasicShapes/Cone.uasset" 359
+"../../../Engine/Content/BasicShapes/Cone.uexp" 360
 "../../../Engine/Content/BasicShapes/Plane.uasset" 361
 "../../../Engine/Content/BasicShapes/Plane.uexp" 362
 "../../../Engine/Content/BasicShapes/Sphere.uasset" 363
@@ -863,558 +863,667 @@
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 862
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 863
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 864
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt4.uasset" 865
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt4.uexp" 866
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt3.uasset" 867
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt3.uexp" 868
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt2.uasset" 869
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt2.uexp" 870
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt1.uasset" 871
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt1.uexp" 872
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/Taunts_Cue.uasset" 873
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/Taunts_Cue.uexp" 874
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Platforms_Inst.uasset" 875
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Platforms_Inst.uexp" 876
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Level_Start_M.uasset" 877
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Level_Start_M.uexp" 878
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Textures/Bricks-grey-dif.uasset" 879
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Textures/Bricks-grey-dif.uexp" 880
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Textures/Bricks-grey-dif.ubulk" 881
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Bricks_Grey_Inst.uasset" 882
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Bricks_Grey_Inst.uexp" 883
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Metal_M.uasset" 884
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Metal_M.uexp" 885
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Spikes.uasset" 886
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Spikes.uexp" 887
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/BPs/BP_SpikeTrap.uasset" 888
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/BPs/BP_SpikeTrap.uexp" 889
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/BPs/BP_MovingPlatform.uasset" 890
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/BPs/BP_MovingPlatform.uexp" 891
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/ANHGInstance.uasset" 892
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/ANHGInstance.uexp" 893
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Maps/MainLevel.uexp" 894
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Maps/MainLevel.umap" 895
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 896
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 897
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 898
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 899
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 900
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 901
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 902
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 903
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 904
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 905
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 906
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/SideScrollerCPP/Maps/SideScrollerExampleMap_BuiltData.uasset" 907
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/SideScrollerCPP/Maps/SideScrollerExampleMap_BuiltData.uexp" 908
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/SideScrollerCPP/Maps/SideScrollerExampleMap_BuiltData.ubulk" 909
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 910
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 911
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 912
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 913
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 914
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 915
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 916
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 917
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 918
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 919
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Geometry/Meshes/TemplateFloor.uasset" 920
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Geometry/Meshes/TemplateFloor.uexp" 921
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/SideScrollerCPP/Maps/SideScrollerExampleMap.uexp" 922
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/SideScrollerCPP/Maps/SideScrollerExampleMap.umap" 923
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_AssetPlatform.uasset" 924
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_AssetPlatform.uexp" 925
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 926
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 927
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 928
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 929
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 930
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 931
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 932
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 933
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 934
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 935
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 936
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 937
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 938
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 939
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 940
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 941
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 942
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 943
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 944
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 945
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 946
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 947
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 948
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 949
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 950
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 951
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 952
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 953
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 954
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 955
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 956
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 957
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 958
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 959
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 960
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 961
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 962
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 963
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 964
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 965
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 966
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 967
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 968
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 969
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Advanced_Lighting.uexp" 970
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Advanced_Lighting.umap" 971
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 972
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 973
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Floor_400x400.uasset" 974
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Floor_400x400.uexp" 975
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_N.uasset" 976
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_N.uexp" 977
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_N.ubulk" 978
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_M.uasset" 979
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_M.uexp" 980
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_M.ubulk" 981
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_TableRound.uasset" 982
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_TableRound.uexp" 983
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_TableRound.uasset" 984
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_TableRound.uexp" 985
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_N.uasset" 986
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_N.uexp" 987
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_N.ubulk" 988
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_M.uasset" 989
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_M.uexp" 990
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_M.ubulk" 991
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Statue.uasset" 992
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Statue.uexp" 993
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 994
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 995
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Statue.uasset" 996
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Statue.uexp" 997
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Chair.uasset" 998
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Chair.uexp" 999
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1000
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 1001
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 1002
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1003
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 1004
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 1005
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_MacroVariation.uasset" 1006
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_MacroVariation.uexp" 1007
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1008
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Copper.uexp" 1009
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1010
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 1011
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 1012
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1013
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 1014
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1015
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 1016
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1017
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 1018
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 1019
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Minimal_Default.uexp" 1020
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Minimal_Default.umap" 1021
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1022
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Sphere.uexp" 1023
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1024
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 1025
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cube.uasset" 1026
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cube.uexp" 1027
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_N.uasset" 1028
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_N.uexp" 1029
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_N.ubulk" 1030
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_M.uasset" 1031
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_M.uexp" 1032
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_M.ubulk" 1033
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Frame.uasset" 1034
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Frame.uexp" 1035
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_WindowFrame.uasset" 1036
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_WindowFrame.uexp" 1037
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire01_Cue.uasset" 1038
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire01_Cue.uexp" 1039
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1040
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1041
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_N.uasset" 1042
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_N.uexp" 1043
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_N.ubulk" 1044
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1045
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1046
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1047
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1048
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1049
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1050
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 1051
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 1052
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1053
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1054
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Fire.uasset" 1055
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Fire.uexp" 1056
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1057
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1058
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_N.uasset" 1059
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_N.uexp" 1060
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_N.ubulk" 1061
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_M.uasset" 1062
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_M.uexp" 1063
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_M.ubulk" 1064
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1065
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Lamp.uexp" 1066
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1067
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 1068
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1069
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1070
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1071
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 1072
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse_Cue.uasset" 1073
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse_Cue.uexp" 1074
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1075
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 1076
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1077
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 1078
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x200.uasset" 1079
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x200.uexp" 1080
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1081
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_PillarFrame300.uexp" 1082
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_PillarFrame.uasset" 1083
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_PillarFrame.uexp" 1084
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_GlassWindow.uasset" 1085
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_GlassWindow.uexp" 1086
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_DoorFrame.uasset" 1087
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_DoorFrame.uexp" 1088
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_CornerFrame.uasset" 1089
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_CornerFrame.uexp" 1090
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/MaterialSphere.uasset" 1091
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/MaterialSphere.uexp" 1092
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1093
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 1094
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 1095
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1096
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 1097
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1098
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 1099
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1100
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 1101
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 1102
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1103
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 1104
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 1105
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1106
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 1107
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1108
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 1109
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 1110
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1111
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 1112
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 1113
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1114
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 1115
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 1116
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1117
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Pine.uexp" 1118
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1119
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 1120
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 1121
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1122
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 1123
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 1124
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1125
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Oak.uexp" 1126
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1127
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 1128
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1129
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 1130
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 1131
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1132
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 1133
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 1134
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1135
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 1136
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 1137
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1138
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 1139
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1140
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 1141
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_M.uasset" 1142
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_M.uexp" 1143
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_M.ubulk" 1144
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1145
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Water_Ocean.uexp" 1146
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Water_Lake.uasset" 1147
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Water_Lake.uexp" 1148
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1149
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 1150
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 1151
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1152
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 1153
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 1154
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1155
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 1156
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1157
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1158
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Panel.uexp" 1159
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1160
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 1161
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 1162
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1163
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 1164
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 1165
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1166
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 1167
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1168
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 1169
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1170
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 1171
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 1172
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1173
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 1174
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 1175
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1176
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 1177
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 1178
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1179
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 1180
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 1181
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1182
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 1183
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1184
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 1185
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 1186
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1187
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 1188
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 1189
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1190
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Slate.uexp" 1191
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1192
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 1193
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 1194
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1195
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 1196
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 1197
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1198
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 1199
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1200
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1201
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1202
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1203
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1204
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1205
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 1206
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 1207
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1208
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 1209
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1210
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1211
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1212
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1213
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1214
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1215
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 1216
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 1217
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1218
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 1219
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 1220
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1221
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Rust.uexp" 1222
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1223
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1224
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1225
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1226
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1227
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1228
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 1229
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1230
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 1231
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1232
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1233
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 1234
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 1235
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1236
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Moss.uexp" 1237
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1238
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1239
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1240
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1241
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1242
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1243
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1244
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1245
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1246
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1247
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1248
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1249
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1250
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1251
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1252
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1253
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1254
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1255
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1256
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1257
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1258
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1259
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1260
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1261
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1262
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1263
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1264
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1265
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1266
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1267
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1268
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1269
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1270
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1271
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1272
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1273
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1274
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1275
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1276
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1277
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1278
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1279
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1280
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1281
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1282
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1283
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1284
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1285
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1286
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1287
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1288
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1289
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1290
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1291
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1292
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1293
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1294
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1295
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1296
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1297
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1298
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1299
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1300
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1301
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1302
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1303
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1304
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1305
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1306
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1307
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1308
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1309
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1310
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1311
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1312
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1313
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1314
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1315
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1316
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1317
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1318
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1319
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1320
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1321
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1322
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1323
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1324
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1325
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1326
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1327
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1328
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1329
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1330
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1331
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1332
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1333
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1334
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1335
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1336
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1337
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1338
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1339
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1340
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1341
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1342
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1343
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1344
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1345
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1346
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1347
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1348
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1349
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1350
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1351
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1352
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1353
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1354
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1355
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1356
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1357
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1358
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1359
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1360
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1361
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1362
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1363
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1364
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1365
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1366
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1367
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1368
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1369
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1370
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1371
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1372
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1373
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1374
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1375
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1376
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1377
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1378
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1379
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1380
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1381
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1382
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1383
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1384
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1385
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1386
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1387
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 1388
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1389
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1390
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Steam01_Cue.uasset" 1391
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Steam01_Cue.uexp" 1392
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1393
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Steam_Lit.uexp" 1394
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1395
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1396
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1397
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1398
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Spark_Core.uasset" 1399
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Spark_Core.uexp" 1400
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Spark_Core.ubulk" 1401
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1402
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Spark.uexp" 1403
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Sparks.uasset" 1404
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Sparks.uexp" 1405
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1406
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1407
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1408
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Smoke01_Cue.uexp" 1409
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Smoke.uasset" 1410
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Smoke.uexp" 1411
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1412
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1413
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/StarterMap.uexp" 1414
-"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/StarterMap.umap" 1415
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1416
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1417
-"../../../Engine/Content/Maps/Entry.uexp" 1418
-"../../../Engine/Content/Maps/Entry.umap" 1419
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/START.uasset" 865
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/START.uexp" 866
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/OPTIONS.uasset" 867
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/OPTIONS.uexp" 868
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/EXIT.uasset" 869
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/EXIT.uexp" 870
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/A_NEEDLESSLY_HARD_GAME__Logo_.uasset" 871
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/A_NEEDLESSLY_HARD_GAME__Logo_.uexp" 872
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/BACK.uasset" 873
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Textures/BACK.uexp" 874
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/Spinner/T_ArrowRight.uasset" 875
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/Spinner/T_ArrowRight.uexp" 876
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/Spinner/M_ArrowRight.uasset" 877
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/Spinner/M_ArrowRight.uexp" 878
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/Spinner/M_ArrowLeft.uasset" 879
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/Spinner/M_ArrowLeft.uexp" 880
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/Spinner/DefaultSpinner.uasset" 881
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/Spinner/DefaultSpinner.uexp" 882
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/SettingControls/DefaultSpinnerSetting.uasset" 883
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/SettingControls/DefaultSpinnerSetting.uexp" 884
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/SettingControls/DefaultSliderSetting.uasset" 885
+"../../../Engine/Plugins/Marketplace/AutoSettings/Content/SettingControls/DefaultSliderSetting.uexp" 886
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Fonts/ComicSansMS3.uasset" 887
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Fonts/ComicSansMS3.uexp" 888
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Fonts/ComicSansMS3.ufont" 889
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Fonts/ComicSansMS3_Font.uasset" 890
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/Fonts/ComicSansMS3_Font.uexp" 891
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/BPW_Options.uasset" 892
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/BPW_Options.uexp" 893
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/ANHGInstance.uasset" 894
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/ANHGInstance.uexp" 895
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/BPW_Menu.uasset" 896
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/UI/BPW_Menu.uexp" 897
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt9.uasset" 898
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt9.uexp" 899
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt8.uasset" 900
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt8.uexp" 901
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt7.uasset" 902
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt7.uexp" 903
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt6.uasset" 904
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt6.uexp" 905
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt5.uasset" 906
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt5.uexp" 907
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt4.uasset" 908
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt4.uexp" 909
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt3.uasset" 910
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt3.uexp" 911
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt21.uasset" 912
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt21.uexp" 913
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt20.uasset" 914
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt20.uexp" 915
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt2.uasset" 916
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt2.uexp" 917
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt19.uasset" 918
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt19.uexp" 919
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt18.uasset" 920
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt18.uexp" 921
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt17.uasset" 922
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt17.uexp" 923
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt16.uasset" 924
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt16.uexp" 925
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt15.uasset" 926
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt15.uexp" 927
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt14.uasset" 928
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt14.uexp" 929
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt13.uasset" 930
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt13.uexp" 931
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt12.uasset" 932
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt12.uexp" 933
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt11.uasset" 934
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt11.uexp" 935
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt10.uasset" 936
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt10.uexp" 937
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt1.uasset" 938
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/taunt1.uexp" 939
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/Taunts_Cue.uasset" 940
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Taunts/Taunts_Cue.uexp" 941
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Sneaky_Snitch.uasset" 942
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Sneaky_Snitch.uexp" 943
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Sneaky_Adventure.uasset" 944
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Sneaky_Adventure.uexp" 945
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Scheming_Weasel.uasset" 946
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Scheming_Weasel.uexp" 947
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Hyperfun.uasset" 948
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Hyperfun.uexp" 949
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Divertissement.uasset" 950
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Divertissement.uexp" 951
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Music_Cue.uasset" 952
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/Music/Music_Cue.uexp" 953
+"../../../Engine/Content/BasicShapes/Cube.uasset" 954
+"../../../Engine/Content/BasicShapes/Cube.uexp" 955
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Black_Inst.uasset" 956
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Black_Inst.uexp" 957
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Platforms_Inst.uasset" 958
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Platforms_Inst.uexp" 959
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Level_Start_M.uasset" 960
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Level_Start_M.uexp" 961
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Textures/Bricks-grey-dif.uasset" 962
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Textures/Bricks-grey-dif.uexp" 963
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Textures/Bricks-grey-dif.ubulk" 964
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Bricks_Grey_Inst.uasset" 965
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/Materials/Bricks_Grey_Inst.uexp" 966
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/SFX/Turret/gun_shoot.uasset" 967
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/SFX/Turret/gun_shoot.uexp" 968
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/SFX/Turret/gun_mid_air.uasset" 969
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/SFX/Turret/gun_mid_air.uexp" 970
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/SFX/Turret/gun_hit.uasset" 971
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Sounds/SFX/Turret/gun_hit.uexp" 972
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Metal_Inst.uasset" 973
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Metal_Inst.uexp" 974
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Turret_Neck.uasset" 975
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Turret_Neck.uexp" 976
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Emissive_Base_M.uasset" 977
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Emissive_Base_M.uexp" 978
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Red_Light_Inst.uasset" 979
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Red_Light_Inst.uexp" 980
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Red_Light_Off_Inst.uasset" 981
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Red_Light_Off_Inst.uexp" 982
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Black_Metal_Inst.uasset" 983
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Black_Metal_Inst.uexp" 984
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Turret_Gun.uasset" 985
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Turret_Gun.uexp" 986
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/BPs/BP_TurretTrap.uasset" 987
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/BPs/BP_TurretTrap.uexp" 988
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Spikes.uasset" 989
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Spikes.uexp" 990
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/BPs/BP_SpikeTrap.uasset" 991
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/BPs/BP_SpikeTrap.uexp" 992
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Effects/Earthquake_Shake.uasset" 993
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Effects/Earthquake_Shake.uexp" 994
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Blue_Inst.uasset" 995
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/Meshes/Materials/Blue_Inst.uexp" 996
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/BPs/BP_DisasterPlate.uasset" 997
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/BPs/BP_DisasterPlate.uexp" 998
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/BPs/BP_CeilingTrap.uasset" 999
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Objects/Traps/BPs/BP_CeilingTrap.uexp" 1000
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/BPs/BP_MovingPlatform.uasset" 1001
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Environment/BPs/BP_MovingPlatform.uexp" 1002
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Maps/MainLevel.uexp" 1003
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Maps/MainLevel.umap" 1004
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1005
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1006
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1007
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1008
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1009
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1010
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1011
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1012
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1013
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1014
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1015
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/SideScrollerCPP/Maps/SideScrollerExampleMap_BuiltData.uasset" 1016
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/SideScrollerCPP/Maps/SideScrollerExampleMap_BuiltData.uexp" 1017
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/SideScrollerCPP/Maps/SideScrollerExampleMap_BuiltData.ubulk" 1018
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1019
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1020
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1021
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1022
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1023
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1024
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1025
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1026
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1027
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1028
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Geometry/Meshes/TemplateFloor.uasset" 1029
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/Geometry/Meshes/TemplateFloor.uexp" 1030
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/SideScrollerCPP/Maps/SideScrollerExampleMap.uexp" 1031
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/SideScrollerCPP/Maps/SideScrollerExampleMap.umap" 1032
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1033
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 1034
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1035
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 1036
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 1037
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1038
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 1039
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1040
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 1041
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1042
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 1043
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1044
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 1045
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1046
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 1047
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1048
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 1049
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 1050
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1051
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 1052
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1053
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 1054
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1055
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 1056
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1057
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 1058
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1059
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 1060
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1061
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 1062
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1063
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 1064
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1065
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 1066
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1067
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 1068
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1069
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 1070
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1071
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 1072
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1073
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 1074
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1075
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_AssetPlatform.uexp" 1076
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1077
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 1078
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Advanced_Lighting.uexp" 1079
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Advanced_Lighting.umap" 1080
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_N.uasset" 1081
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_N.uexp" 1082
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_N.ubulk" 1083
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_M.uasset" 1084
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_M.uexp" 1085
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_TableRound_M.ubulk" 1086
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1087
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_TableRound.uexp" 1088
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_TableRound.uasset" 1089
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_TableRound.uexp" 1090
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_N.uasset" 1091
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_N.uexp" 1092
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_N.ubulk" 1093
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_M.uasset" 1094
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_M.uexp" 1095
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Statue_M.ubulk" 1096
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Statue.uasset" 1097
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Statue.uexp" 1098
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1099
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 1100
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Statue.uasset" 1101
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Statue.uexp" 1102
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Chair.uasset" 1103
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Chair.uexp" 1104
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1105
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 1106
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 1107
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1108
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 1109
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 1110
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_MacroVariation.uasset" 1111
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_MacroVariation.uexp" 1112
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1113
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Copper.uexp" 1114
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1115
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 1116
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 1117
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1118
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 1119
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1120
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 1121
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1122
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 1123
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 1124
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1125
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 1126
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Floor_400x400.uasset" 1127
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Floor_400x400.uexp" 1128
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Minimal_Default.uexp" 1129
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/Minimal_Default.umap" 1130
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1131
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Sphere.uexp" 1132
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1133
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 1134
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cube.uasset" 1135
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Shapes/Shape_Cube.uexp" 1136
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_N.uasset" 1137
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_N.uexp" 1138
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_N.ubulk" 1139
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_M.uasset" 1140
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_M.uexp" 1141
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Frame_M.ubulk" 1142
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Frame.uasset" 1143
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Frame.uexp" 1144
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_WindowFrame.uasset" 1145
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_WindowFrame.uexp" 1146
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1147
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_PillarFrame300.uexp" 1148
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_PillarFrame.uasset" 1149
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_PillarFrame.uexp" 1150
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_GlassWindow.uasset" 1151
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_GlassWindow.uexp" 1152
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_DoorFrame.uasset" 1153
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_DoorFrame.uexp" 1154
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_CornerFrame.uasset" 1155
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_CornerFrame.uexp" 1156
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/MaterialSphere.uasset" 1157
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/MaterialSphere.uexp" 1158
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1159
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 1160
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 1161
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1162
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 1163
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1164
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 1165
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1166
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 1167
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 1168
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1169
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 1170
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 1171
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1172
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 1173
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1174
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 1175
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 1176
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1177
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 1178
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 1179
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1180
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 1181
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 1182
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1183
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Pine.uexp" 1184
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1185
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 1186
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 1187
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1188
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 1189
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 1190
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1191
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Oak.uexp" 1192
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1193
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 1194
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1195
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 1196
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 1197
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1198
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 1199
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 1200
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1201
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 1202
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 1203
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1204
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 1205
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1206
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 1207
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_M.uasset" 1208
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_M.uexp" 1209
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_M.ubulk" 1210
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_N.uasset" 1211
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_N.uexp" 1212
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Water_N.ubulk" 1213
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1214
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Water_Ocean.uexp" 1215
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Water_Lake.uasset" 1216
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Water_Lake.uexp" 1217
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1218
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 1219
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1220
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1221
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 1222
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 1223
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1224
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 1225
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 1226
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1227
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Panel.uexp" 1228
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1229
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 1230
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 1231
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1232
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 1233
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 1234
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1235
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 1236
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1237
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 1238
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1239
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 1240
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 1241
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1242
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 1243
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 1244
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1245
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 1246
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 1247
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1248
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 1249
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 1250
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1251
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 1252
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1253
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 1254
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 1255
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1256
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 1257
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 1258
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1259
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Slate.uexp" 1260
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1261
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 1262
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 1263
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1264
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 1265
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 1266
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1267
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 1268
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1269
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1270
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1271
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1272
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1273
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1274
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 1275
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 1276
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1277
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 1278
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1279
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1280
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1281
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1282
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1283
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1284
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 1285
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 1286
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1287
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 1288
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 1289
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1290
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Rust.uexp" 1291
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1292
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1293
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1294
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1295
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1296
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1297
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 1298
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1299
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 1300
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1301
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1302
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 1303
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 1304
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1305
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Moss.uexp" 1306
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1307
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1308
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1309
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1310
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1311
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1312
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1313
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1314
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1315
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1316
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1317
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1318
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1319
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1320
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1321
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1322
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1323
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1324
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1325
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1326
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1327
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1328
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1329
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1330
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1331
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1332
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1333
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1334
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1335
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1336
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1337
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1338
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1339
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1340
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1341
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1342
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1343
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1344
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1345
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1346
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1347
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1348
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1349
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1350
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1351
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1352
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1353
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1354
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1355
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1356
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1357
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1358
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1359
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1360
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1361
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1362
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1363
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1364
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1365
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1366
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1367
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1368
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1369
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1370
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1371
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1372
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1373
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1374
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1375
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1376
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1377
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1378
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1379
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1380
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1381
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1382
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1383
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1384
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1385
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1386
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1387
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1388
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1389
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1390
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1391
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1392
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1393
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1394
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1395
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1396
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1397
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1398
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1399
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1400
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1401
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1402
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1403
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1404
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1405
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1406
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1407
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1408
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1409
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1410
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1411
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1412
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1413
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1414
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1415
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1416
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1417
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1418
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1419
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1420
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1421
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1422
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1423
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1424
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1425
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1426
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1427
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1428
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1429
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1430
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1431
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1432
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1433
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1434
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1435
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1436
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1437
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1438
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1439
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1440
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1441
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1442
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1443
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1444
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1445
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1446
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1447
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1448
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1449
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1450
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1451
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1452
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1453
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1454
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1455
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_N.uasset" 1456
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_N.uexp" 1457
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_N.ubulk" 1458
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_M.uasset" 1459
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_M.uexp" 1460
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Lamp_M.ubulk" 1461
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1462
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/Materials/M_Lamp.uexp" 1463
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1464
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 1465
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1466
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1467
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1468
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Steam_Lit.uexp" 1469
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Steam01_Cue.uasset" 1470
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Steam01_Cue.uexp" 1471
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1472
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1473
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Spark_Core.uasset" 1474
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Spark_Core.uexp" 1475
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Spark_Core.ubulk" 1476
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1477
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Spark.uexp" 1478
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1479
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1480
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Sparks.uasset" 1481
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Sparks.uexp" 1482
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1483
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1484
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1485
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1486
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Smoke.uasset" 1487
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Smoke.uexp" 1488
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1489
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Smoke01_Cue.uexp" 1490
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1491
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1492
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1493
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1494
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1495
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1496
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1497
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1498
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 1499
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 1500
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1501
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1502
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Fire.uasset" 1503
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Particles/P_Fire.uexp" 1504
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire01_Cue.uasset" 1505
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Fire01_Cue.uexp" 1506
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1507
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1508
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1509
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 1510
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1511
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1512
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1513
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 1514
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse_Cue.uasset" 1515
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Audio/Collapse_Cue.uexp" 1516
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1517
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 1518
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1519
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 1520
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x200.uasset" 1521
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Architecture/Wall_400x200.uexp" 1522
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/StarterMap.uexp" 1523
+"C:/Users/Owner/Unreal Projects/ANeedleslyHardGame/Content/StarterContent/Maps/StarterMap.umap" 1524
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1525
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1526
+"../../../Engine/Content/Maps/Entry.uexp" 1527
+"../../../Engine/Content/Maps/Entry.umap" 1528
